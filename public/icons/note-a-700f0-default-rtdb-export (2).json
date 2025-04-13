@@ -1,0 +1,75 @@
+{
+  "folders": {
+    "Q6zKp5agF3hdJe9WSu5aMC92Fn52": {
+      "1729631826574": {
+        "createdAt": "2024-10-22T21:17:06.574Z",
+        "email": "jayeshshete8@gmail.com",
+        "files": {
+          "1729633868823": {
+            "name": "shree Devansh-17.pdf",
+            "uploadedAt": "2024-10-22T21:51:08.823Z"
+          }
+        },
+        "name": "Java",
+        "userId": "Q6zKp5agF3hdJe9WSu5aMC92Fn52"
+      },
+      "1729632054936": {
+        "createdAt": "2024-10-22T21:20:54.937Z",
+        "email": "jayeshshete8@gmail.com",
+        "name": "Python",
+        "userId": "Q6zKp5agF3hdJe9WSu5aMC92Fn52"
+      }
+    },
+    "oSUavPzb6CgqO5SxJRnNkeDK8hq1": {
+      "1729631687574": {
+        "createdAt": "2024-10-22T21:14:47.574Z",
+        "email": "jayeshnshete1204@gmail.com",
+        "name": "C",
+        "userId": "oSUavPzb6CgqO5SxJRnNkeDK8hq1"
+      },
+      "createdAt": "2024-10-22T21:06:39.235Z",
+      "email": "jayeshnshete1204@gmail.com",
+      "name": "Java",
+      "userId": "oSUavPzb6CgqO5SxJRnNkeDK8hq1"
+    }
+  },
+  "users": {
+    "2v2yQ1azCXPmcspImRoPQQks3LG3": {
+      "backpackName": {
+        "bagName": "kaplear"
+      },
+      "displayName": "B2_26_Arpit Kaple",
+      "email": "kaplear@rknec.edu",
+      "uid": "2v2yQ1azCXPmcspImRoPQQks3LG3"
+    },
+    "8rGoKiB14CZKm4NwrhyQkzQ5zEy2": {
+      "backpackName": {
+        "bagName": "mooleyov@rknec.edu"
+      },
+      "displayName": "Om Mooley",
+      "email": "omvikas1001@gmail.com",
+      "uid": "8rGoKiB14CZKm4NwrhyQkzQ5zEy2"
+    },
+    "Q6zKp5agF3hdJe9WSu5aMC92Fn52": {
+      "backpackName ": {
+        "bagName": "Jayesh's Bag"
+      },
+      "displayName": "Jayesh Shete",
+      "email": "jayeshshete8@gmail.com",
+      "uid": "Q6zKp5agF3hdJe9WSu5aMC92Fn52"
+    },
+    "lm8W8Jk2PPQPUyVZpSbVP3Hqqyv1": {
+      "backpackName": {
+        "bagName": "Test1"
+      },
+      "displayName": "infinity 00",
+      "email": "logxinfinity00@gmail.com",
+      "uid": "lm8W8Jk2PPQPUyVZpSbVP3Hqqyv1"
+    },
+    "nnFkrjuqjnZ15FIuV6q3ClSDb1s1": {
+      "displayName": "Jayesh Shete",
+      "email": "jayeshshetestudy@gmail.com",
+      "uid": "nnFkrjuqjnZ15FIuV6q3ClSDb1s1"
+    }
+  }
+}

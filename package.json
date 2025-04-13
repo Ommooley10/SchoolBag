@@ -1,0 +1,30 @@
+{
+  "name": "schoolbag",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "export": "next export"
+  },
+  "dependencies": {
+    "@capacitor/core": "^6.1.2",
+    "@google/generative-ai": "^0.21.0",
+    "bcrypt": "^5.1.1",
+    "cookies-next": "^4.3.0",
+    "firebase": "^10.14.1",
+    "next": "^14.2.5",
+    "nodemailer": "^6.9.16",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-firebase-hooks": "^5.1.1",
+    "react-icons": "^5.2.1"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.1.2",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  }
+}
