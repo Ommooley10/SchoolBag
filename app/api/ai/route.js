@@ -6,7 +6,7 @@ import { GoogleGenerativeAI } from "@google/generative-ai";
 async function generateMagicBackpackStory(p) {
     console.log(p);
     
-    const genAI = new GoogleGenerativeAI('AIzaSyDVhUA0AGz-mBhnnIKADRWmHh6kK0OlsvU'); // Replace with your actual API key
+    //const genAI = new GoogleGenerativeAI('replace with your key'); 
     const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
     
     const prompt = `
