@@ -4,7 +4,7 @@ import { getStorage } from "firebase/storage";
 import { getDatabase } from "firebase/database"; // Import Realtime Database
 
 const firebaseConfig = {
-  apiKey: "AIzaSyChyWnOcX4ocbPZG3zyJ7vlZtQvzSQseRE",
+  //apiKey: your api key,
   authDomain: "note-a-700f0.firebaseapp.com",
   projectId: "note-a-700f0",
   storageBucket: "note-a-700f0.appspot.com",
